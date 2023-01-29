@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/super-converter/static/js/main.f895301d.js",
+    "index.html": "/super-converter/index.html",
+    "main.f895301d.js.map": "/super-converter/static/js/main.f895301d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f895301d.js"
+  ]
+}
