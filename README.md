@@ -2,7 +2,7 @@
 
 ### 단위 변환기
 
-(참고) [노마드 코더](https://nomadcoders.co/)
+- [링크](https://soohyuneee.github.io/super-converter/)
 
 ---
 
@@ -18,7 +18,6 @@
 
 - 기술스택 : React, Styled-component <br >
 - 기능 : 단위 변환, 뒤집기 & 초기화 <br >
-- [링크](https://soohyuneee.github.io/super-converter/)
 
 ---
 
